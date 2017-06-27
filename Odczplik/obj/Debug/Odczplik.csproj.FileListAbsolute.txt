@@ -1,0 +1,6 @@
+F:\Uczelnia\Programy\Odczytplik\Odczplik\Odczplik\bin\Debug\Odczplik.exe.config
+F:\Uczelnia\Programy\Odczytplik\Odczplik\Odczplik\bin\Debug\Odczplik.exe
+F:\Uczelnia\Programy\Odczytplik\Odczplik\Odczplik\bin\Debug\Odczplik.pdb
+F:\Uczelnia\Programy\Odczytplik\Odczplik\Odczplik\obj\Debug\Odczplik.csprojResolveAssemblyReference.cache
+F:\Uczelnia\Programy\Odczytplik\Odczplik\Odczplik\obj\Debug\Odczplik.exe
+F:\Uczelnia\Programy\Odczytplik\Odczplik\Odczplik\obj\Debug\Odczplik.pdb
